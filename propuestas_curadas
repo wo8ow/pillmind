@@ -1,0 +1,602 @@
+<html lang="es"><head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=10">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.dataec593.com/xmlrpc.php">
+	<title>propuestas_curadas – DATA EC 593</title>
+<meta name="robots" content="max-image-preview:large">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="alternate" type="application/rss+xml" title="DATA EC 593 » Feed" href="https://www.dataec593.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="DATA EC 593 » Feed de los comentarios" href="https://www.dataec593.com/comments/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.dataec593.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel="stylesheet" id="dashicons-css" href="https://www.dataec593.com/wp-includes/css/dashicons.min.css?ver=6.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="admin-bar-css" href="https://www.dataec593.com/wp-includes/css/admin-bar.min.css?ver=6.7.2" type="text/css" media="all">
+<style id="admin-bar-inline-css" type="text/css">
+
+		@media screen { html { margin-top: 32px !important; } }
+		@media screen and ( max-width: 782px ) { html { margin-top: 46px !important; } }
+	
+@media print { #wpadminbar { display:none; } }
+</style>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.dataec593.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="sek-base-light-css" href="https://www.dataec593.com/wp-content/plugins/nimble-builder/assets/front/css/sek-base-light.min.css?ver=3.3.4" type="text/css" media="all">
+<link rel="stylesheet" id="vantage-style-css" href="https://www.dataec593.com/wp-content/themes/vantage/style.css?ver=1.20.21" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://www.dataec593.com/wp-content/themes/vantage/fontawesome/css/font-awesome.css?ver=4.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="siteorigin-mobilenav-css" href="https://www.dataec593.com/wp-content/themes/vantage/inc/mobilenav/css/mobilenav.css?ver=1.20.21" type="text/css" media="all">
+<link rel="stylesheet" id="sek-dyn-skp__post_page_802-css" href="https://www.dataec593.com/wp-content/uploads/nimble_css/skp__post_page_802.css?ver=1740347059" type="text/css" media="all">
+<link rel="stylesheet" id="sek-dyn-skp__global-css" href="https://www.dataec593.com/wp-content/uploads/nimble_css/skp__global.css?ver=1740347059" type="text/css" media="all">
+<script type="text/javascript" id="nb-js-app-js-extra">
+/* <![CDATA[ */
+var sekFrontLocalized = {"isDevMode":"","isCustomizing":"","frontNonce":{"id":"SEKFrontNonce","handle":"ed800ad42b"},"skope_id":"skp__post_page_802","recaptcha_public_key":"","lazyload_enabled":"1","video_bg_lazyload_enabled":"1","load_front_assets_on_dynamically":"","assetVersion":"3.3.4","frontAssetsPath":"https:\/\/www.dataec593.com\/wp-content\/plugins\/nimble-builder\/assets\/front\/","contextuallyActiveModules":{"czr_tiny_mce_editor_module":["__nimble__3e9113268336","__nimble__604542b9e5c3","__nimble__ccc467dc112c"],"czr_accordion_module":["__nimble__9e9c87785f62","__nimble__20cde61113f4"],"czr_image_module":["__nimble__fde4cb9be550"],"czr_menu_module":["__nimble__65097bd24915"],"czr_social_icons_module":["__nimble__ef393ecd24ee"]},"fontAwesomeAlreadyEnqueued":"","partialFrontScripts":{"slider-module":"nb-needs-swiper","menu-module":"nb-needs-menu-js","front-parallax":"nb-needs-parallax","accordion-module":"nb-needs-accordion"}};
+/* ]]> */
+</script>
+<script type="text/javascript" id="nb-js-app-js-after">
+/* <![CDATA[ */
+window.nb_={},function(e,t){if(window.nb_={isArray:function(e){return Array.isArray(e)||"[object Array]"===toString.call(e)},inArray:function(e,t){return!(!nb_.isArray(e)||nb_.isUndefined(t))&&e.indexOf(t)>-1},isUndefined:function(e){return void 0===e},isObject:function(e){var t=typeof e;return"function"===t||"object"===t&&!!e},errorLog:function(){nb_.isUndefined(console)||"function"!=typeof window.console.log||console.log.apply(console,arguments)},hasPreloadSupport:function(e){var t=document.createElement("link").relList;return!(!t||!t.supports)&&t.supports("preload")},listenTo:function(e,t){nb_.eventsListenedTo.push(e);var n={"nb-jquery-loaded":function(){return"undefined"!=typeof jQuery},"nb-app-ready":function(){return void 0!==window.nb_&&nb_.wasListenedTo("nb-jquery-loaded")},"nb-swipebox-parsed":function(){return"undefined"!=typeof jQuery&&void 0!==jQuery.fn.swipebox},"nb-main-swiper-parsed":function(){return void 0!==window.Swiper}},o=function(o){nb_.isUndefined(n[e])||!1!==n[e]()?t():nb_.errorLog("Nimble error => an event callback could not be fired because conditions not met => ",e,nb_.eventsListenedTo,t)};"function"==typeof t?nb_.wasEmitted(e)?o():document.addEventListener(e,o):nb_.errorLog("Nimble error => listenTo func param is not a function for event => ",e)},eventsEmitted:[],eventsListenedTo:[],emit:function(e,t){if(!(nb_.isUndefined(t)||t.fire_once)||!nb_.wasEmitted(e)){var n=document.createEvent("Event");n.initEvent(e,!0,!0),document.dispatchEvent(n),nb_.eventsEmitted.push(e)}},wasListenedTo:function(e){return"string"==typeof e&&nb_.inArray(nb_.eventsListenedTo,e)},wasEmitted:function(e){return"string"==typeof e&&nb_.inArray(nb_.eventsEmitted,e)},isInScreen:function(e){if(!nb_.isObject(e))return!1;var t=e.getBoundingClientRect(),n=Math.max(document.documentElement.clientHeight,window.innerHeight);return!(t.bottom<0||t.top-n>=0)},isCustomizing:function(){return!1},isLazyLoadEnabled:function(){return!nb_.isCustomizing()&&!1},preloadOrDeferAsset:function(e){if(e=e||{},nb_.preloadedAssets=nb_.preloadedAssets||[],!nb_.inArray(nb_.preloadedAssets,e.id)){var t,n=document.getElementsByTagName("head")[0],o=function(){if("style"===e.as)this.setAttribute("rel","stylesheet"),this.setAttribute("type","text/css"),this.setAttribute("media","all");else{var t=document.createElement("script");t.setAttribute("src",e.href),t.setAttribute("id",e.id),"script"===e.as&&t.setAttribute("defer","defer"),n.appendChild(t),i.call(this)}e.eventOnLoad&&nb_.emit(e.eventOnLoad)},i=function(){if(this&&this.parentNode&&this.parentNode.contains(this))try{this.parentNode.removeChild(this)}catch(e){nb_.errorLog("NB error when removing a script el",el)}};("font"!==e.as||nb_.hasPreloadSupport())&&(t=document.createElement("link"),"script"===e.as?e.onEvent?nb_.listenTo(e.onEvent,function(){o.call(t)}):o.call(t):(t.setAttribute("href",e.href),"style"===e.as?t.setAttribute("rel",nb_.hasPreloadSupport()?"preload":"stylesheet"):"font"===e.as&&nb_.hasPreloadSupport()&&t.setAttribute("rel","preload"),t.setAttribute("id",e.id),t.setAttribute("as",e.as),"font"===e.as&&(t.setAttribute("type",e.type),t.setAttribute("crossorigin","anonymous")),t.onload=function(){this.onload=null,"font"!==e.as?e.onEvent?nb_.listenTo(e.onEvent,function(){o.call(t)}):o.call(t):e.eventOnLoad&&nb_.emit(e.eventOnLoad)},t.onerror=function(t){nb_.errorLog("Nimble preloadOrDeferAsset error",t,e)}),n.appendChild(t),nb_.preloadedAssets.push(e.id),i.call(e.scriptEl))}},mayBeRevealBG:function(){this.getAttribute("data-sek-src")&&(this.setAttribute("style",'background-image:url("'+this.getAttribute("data-sek-src")+'")'),this.className+=" sek-lazy-loaded",this.querySelectorAll(".sek-css-loader").forEach(function(e){nb_.isObject(e)&&e.parentNode.removeChild(e)}))}},window.NodeList&&!NodeList.prototype.forEach&&(NodeList.prototype.forEach=function(e,t){t=t||window;for(var n=0;n<this.length;n++)e.call(t,this[n],n,this)}),nb_.listenTo("nb-docready",function(){var e=document.querySelectorAll("div.sek-has-bg");!nb_.isObject(e)||e.length<1||e.forEach(function(e){nb_.isObject(e)&&(window.sekFrontLocalized&&window.sekFrontLocalized.lazyload_enabled?nb_.isInScreen(e)&&nb_.mayBeRevealBG.call(e):nb_.mayBeRevealBG.call(e))})}),"complete"===document.readyState||"loading"!==document.readyState&&!document.documentElement.doScroll)nb_.emit("nb-docready");else{var n=function(){nb_.wasEmitted("nb-docready")||nb_.emit("nb-docready")};document.addEventListener("DOMContentLoaded",n),window.addEventListener("load",n)}}(window,document),function(){var e=function(){var e="nb-jquery-loaded";nb_.wasEmitted(e)||nb_.emit(e)},t=function(n){n=n||0,void 0!==window.jQuery?e():n<30?setTimeout(function(){t(++n)},200):window.console&&window.console.log&&console.log("Nimble Builder problem : jQuery.js was not detected on your website")},n=document.getElementById("nb-jquery");n&&n.addEventListener("load",function(){e()}),t()}(),window,document,nb_.listenTo("nb-jquery-loaded",function(){sekFrontLocalized.load_front_assets_on_dynamically&&(nb_.scriptsLoadingStatus={},nb_.ajaxLoadScript=function(e){jQuery(function(t){e=t.extend({path:"",complete:"",loadcheck:!1},e),nb_.scriptsLoadingStatus[e.path]&&"pending"===nb_.scriptsLoadingStatus[e.path].state()||(nb_.scriptsLoadingStatus[e.path]=nb_.scriptsLoadingStatus[e.path]||t.Deferred(),jQuery.ajax({url:sekFrontLocalized.frontAssetsPath+e.path+"?"+sekFrontLocalized.assetVersion,cache:!0,dataType:"script"}).done(function(){"function"!=typeof e.loadcheck||e.loadcheck()?"function"==typeof e.complete&&e.complete():nb_.errorLog("ajaxLoadScript success but loadcheck failed for => "+e.path)}).fail(function(){nb_.errorLog("ajaxLoadScript failed for => "+e.path)}))})})}),nb_.listenTo("nb-jquery-loaded",function(){jQuery(function(e){sekFrontLocalized.load_front_assets_on_dynamically&&(nb_.ajaxLoadScript({path:sekFrontLocalized.isDevMode?"js/ccat-nimble-front.js":"js/ccat-nimble-front.min.js"}),e.each(sekFrontLocalized.partialFrontScripts,function(e,t){nb_.listenTo(t,function(){nb_.ajaxLoadScript({path:sekFrontLocalized.isDevMode?"js/partials/"+e+".js":"js/partials/"+e+".min.js"})})}))})});
+            
+/* ]]> */
+</script>
+<script type="text/javascript" id="nb-jquery" src="https://www.dataec593.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script type="text/javascript" src="https://www.dataec593.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.dataec593.com/wp-content/themes/vantage/js/jquery.flexslider.min.js?ver=2.1" id="jquery-flexslider-js"></script>
+<script type="text/javascript" src="https://www.dataec593.com/wp-content/themes/vantage/js/jquery.touchSwipe.min.js?ver=1.6.6" id="jquery-touchswipe-js"></script>
+<script type="text/javascript" src="https://www.dataec593.com/wp-content/themes/vantage/js/jquery.theme-main.min.js?ver=1.20.21" id="vantage-main-js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://www.dataec593.com/wp-content/themes/vantage/js/html5.min.js?ver=3.7.3" id="vantage-html5-js"></script>
+<![endif]-->
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="https://www.dataec593.com/wp-content/themes/vantage/js/selectivizr.min.js?ver=1.0.3b" id="vantage-selectivizr-js"></script>
+<![endif]-->
+<script type="text/javascript" id="siteorigin-mobilenav-js-extra">
+/* <![CDATA[ */
+var mobileNav = {"search":{"url":"https:\/\/www.dataec593.com","placeholder":"B\u00fasqueda"},"text":{"navigate":"MENU","back":"Volver","close":"Cerrar"},"nextIconUrl":"https:\/\/www.dataec593.com\/wp-content\/themes\/vantage\/inc\/mobilenav\/images\/next.png","mobileMenuClose":"<i class=\"fa fa-times\"><\/i>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.dataec593.com/wp-content/themes/vantage/inc/mobilenav/js/mobilenav.min.js?ver=1.20.21" id="siteorigin-mobilenav-js"></script>
+<link rel="https://api.w.org/" href="https://www.dataec593.com/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://www.dataec593.com/wp-json/wp/v2/pages/802"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dataec593.com/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7.2">
+<link rel="canonical" href="https://www.dataec593.com/pillmind/propuestas_curadas/">
+<link rel="shortlink" href="https://www.dataec593.com/?p=802">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.dataec593.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dataec593.com%2Fpillmind%2Fpropuestas_curadas%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.dataec593.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dataec593.com%2Fpillmind%2Fpropuestas_curadas%2F&amp;format=xml">
+<meta name="viewport" content="width=device-width, initial-scale=1">			<style type="text/css">
+				.so-mobilenav-mobile + * { display: none; }
+				@media screen and (max-width: 480px) { .so-mobilenav-mobile + * { display: block; } .so-mobilenav-standard + * { display: none; } .site-navigation #search-icon { display: none; } .has-menu-search .main-navigation ul { margin-right: 0 !important; }
+									}
+			</style>
+				<style type="text/css" media="screen">
+			#footer-widgets .widget { width: 100%; }
+			#masthead-widgets .widget { width: 100%; }
+		</style>
+		<style type="text/css" id="customizer-css">#page-title, article.post .entry-header h1.entry-title, article.page .entry-header h1.entry-title { font-size: 1px } #masthead .hgroup { padding-top: 20px; padding-bottom: 20px } .entry-content a, .entry-content a:visited, article.post .author-box .box-content .author-posts a:hover, #secondary a, #secondary a:visited, #masthead .hgroup a, #masthead .hgroup a:visited, .comment-form .logged-in-as a, .comment-form .logged-in-as a:visited { color: #27a6d8 } div[class^="menu-"][class$="-container"] { margin-left: auto } .main-navigation a, .site-header .shopping-cart-link [class^="fa fa-"], .site-header .shopping-cart-dropdown .widget .product_list_widget li.mini_cart_item, .site-header .shopping-cart-dropdown .widget .total { color: #ffffff } .main-navigation ul ul a { color: #dd9933 } .main-navigation ul li:hover > a, .main-navigation ul li.focus > a, #search-icon #search-icon-icon:hover, #search-icon #search-icon-icon:focus, .site-header .shopping-cart-link .shopping-cart-count { background-color: #c1c1c1 } .main-navigation ul li:hover > a, .main-navigation ul li:focus > a, .main-navigation ul li:hover > a [class^="fa fa-"] { color: #dd9933 } .main-navigation ul ul li:hover > a, .main-navigation ul ul li.focus > a { background-color: #00a8ea } .main-navigation ul li.current-menu-item > a, .main-navigation ul li.current_page_item > a  { background-color: #2c2c38 } .main-navigation ul li a { padding-top: 40px; padding-bottom: 40px } .main-navigation ul li a, #masthead.masthead-logo-in-menu .logo { padding-left: 25px; padding-right: 25px } a.button, button, html input[type="button"], input[type="reset"], input[type="submit"], .post-navigation a, #image-navigation a, article.post .more-link, article.page .more-link, .paging-navigation a, .woocommerce #page-wrapper .button, .woocommerce a.button, .woocommerce .checkout-button, .woocommerce input.button, #infinite-handle span button { text-shadow: none } a.button, button, html input[type="button"], input[type="reset"], input[type="submit"], .post-navigation a, #image-navigation a, article.post .more-link, article.page .more-link, .paging-navigation a, .woocommerce #page-wrapper .button, .woocommerce a.button, .woocommerce .checkout-button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, #infinite-handle span { -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none } #colophon { background-position: center; background-repeat: no-repeat } #footer-widgets .widget { color: #2f3033 } #colophon .widget_nav_menu .menu-item a { border-color: #2f3033 } #colophon #theme-attribution, #colophon #site-info { color: #2f3033 } #colophon #theme-attribution a, #colophon #site-info a { color: #2f3033 } </style><link rel="icon" href="https://www.dataec593.com/wp-content/uploads/2024/04/cropped-DATA-EC-593-2-32x32.png" sizes="32x32">
+<link rel="icon" href="https://www.dataec593.com/wp-content/uploads/2024/04/cropped-DATA-EC-593-2-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://www.dataec593.com/wp-content/uploads/2024/04/cropped-DATA-EC-593-2-180x180.png">
+<meta name="msapplication-TileImage" content="https://www.dataec593.com/wp-content/uploads/2024/04/cropped-DATA-EC-593-2-270x270.png">
+<script src="https://www.dataec593.com/wp-content/plugins/nimble-builder/assets/front/js/partials/accordion-module.min.js?v=3.3.4" id="accordion-module" defer="defer"></script><link><script src="https://www.dataec593.com/wp-content/plugins/nimble-builder/assets/front/js/ccat-nimble-front.min.js?v=3.3.4" id="nb-main-js" defer="defer"></script><link></head>
+
+<body class="nb-3-3-4 nimble-has-local-data-skp__post_page_802 nimble-no-group-site-tmpl-skp__all_page page-template-default page page-id-802 page-child parent-pageid-643 logged-in admin-bar wp-custom-logo sek-hide-rc-badge responsive layout-full has-sidebar page-layout-default page-layout-hide-masthead page-layout-hide-footer-widgets sidebar-position-none mobilenav customize-support">
+<script type="text/javascript">
+/* <![CDATA[ */
+
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	
+/* ]]> */
+</script>
+		<div id="wpadminbar" class="nojq">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Barra de herramientas">
+				<ul role="menu" id="wp-admin-bar-root-default" class="ab-top-menu"><li role="group" id="wp-admin-bar-wp-logo" class="menupop"><a class="ab-item" role="menuitem" aria-expanded="false" href="https://www.dataec593.com/wp-admin/about.php"><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">Acerca de WordPress</span></a><div class="ab-sub-wrapper"><ul role="menu" aria-label="Acerca de WordPress" id="wp-admin-bar-wp-logo-default" class="ab-submenu"><li role="group" id="wp-admin-bar-about"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/about.php">Acerca de WordPress</a></li><li role="group" id="wp-admin-bar-contribute"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/contribute.php">Únete</a></li></ul><ul role="menu" aria-label="Acerca de WordPress" id="wp-admin-bar-wp-logo-external" class="ab-sub-secondary ab-submenu"><li role="group" id="wp-admin-bar-wporg"><a class="ab-item" role="menuitem" href="https://es.wordpress.org/">WordPress.org</a></li><li role="group" id="wp-admin-bar-documentation"><a class="ab-item" role="menuitem" href="https://wordpress.org/documentation/">Documentación</a></li><li role="group" id="wp-admin-bar-learn"><a class="ab-item" role="menuitem" href="https://learn.wordpress.org/">Aprende WordPress</a></li><li role="group" id="wp-admin-bar-support-forums"><a class="ab-item" role="menuitem" href="https://es.wordpress.org/support/">Soporte</a></li><li role="group" id="wp-admin-bar-feedback"><a class="ab-item" role="menuitem" href="https://es.wordpress.org/support/forum/comunidad/peticiones-y-feedback/">Sugerencias</a></li></ul></div></li><li role="group" id="wp-admin-bar-site-name" class="menupop"><a class="ab-item" role="menuitem" aria-expanded="false" href="https://www.dataec593.com/wp-admin/">DATA EC 593</a><div class="ab-sub-wrapper"><ul role="menu" aria-label="DATA EC 593" id="wp-admin-bar-site-name-default" class="ab-submenu"><li role="group" id="wp-admin-bar-dashboard"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/">Escritorio</a></li><li role="group" id="wp-admin-bar-plugins"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/plugins.php">Plugins</a></li></ul><ul role="menu" aria-label="DATA EC 593" id="wp-admin-bar-appearance" class="ab-submenu"><li role="group" id="wp-admin-bar-themes"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/themes.php">Temas</a></li><li role="group" id="wp-admin-bar-widgets"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/widgets.php">Widgets</a></li><li role="group" id="wp-admin-bar-menus"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/nav-menus.php">Menús</a></li></ul></div></li><li role="group" id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/customize.php?url=https%3A%2F%2Fwww.dataec593.com%2Fpillmind%2Fpropuestas_curadas%2F">Personalizar</a></li><li role="group" id="wp-admin-bar-updates"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/update-core.php"><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">2</span><span class="screen-reader-text updates-available-text">2 actualizaciones disponibles</span></a></li><li role="group" id="wp-admin-bar-comments"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/edit-comments.php"><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 comentarios en moderación</span></a></li><li role="group" id="wp-admin-bar-new-content" class="menupop"><a class="ab-item" role="menuitem" aria-expanded="false" href="https://www.dataec593.com/wp-admin/post-new.php"><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">Añadir</span></a><div class="ab-sub-wrapper"><ul role="menu" aria-label="Añadir" id="wp-admin-bar-new-content-default" class="ab-submenu"><li role="group" id="wp-admin-bar-new-post"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/post-new.php">Entrada</a></li><li role="group" id="wp-admin-bar-new-media"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/media-new.php">Medio</a></li><li role="group" id="wp-admin-bar-new-page"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/post-new.php?post_type=page">Página</a></li><li role="group" id="wp-admin-bar-new-user"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/user-new.php">Usuario</a></li></ul></div></li><li role="group" id="wp-admin-bar-edit"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/post.php?post=802&amp;action=edit">Editar la página</a></li><li role="group" id="wp-admin-bar-nimble_customize" class="hide-if-no-customize"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/customize.php?url=https%3A%2F%2Fwww.dataec593.com%2Fpillmind%2Fpropuestas_curadas%2F&amp;autofocus%5Bsection%5D=__content_picker__"><span class="sek-nimble-icon" title="Add sections in live preview with Nimble Builder"><img src="https://www.dataec593.com/wp-content/plugins/nimble-builder/assets/img/nimble/nimble_icon.svg?ver=3.3.4" alt="Nimble Builder"><span class="sek-nimble-admin-bar-title">Build with Nimble Builder</span></span></a></li></ul><ul role="menu" id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu"><li role="group" id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item" role="menuitem" aria-expanded="false" href="https://www.dataec593.com/wp-admin/profile.php">Hola, <span class="display-name">a.ortizmend</span><img alt="" src="https://secure.gravatar.com/avatar/d1340cde9f451fd23608b5390f7957be?s=26&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/d1340cde9f451fd23608b5390f7957be?s=52&amp;d=mm&amp;r=g 2x" class="avatar avatar-26 photo" height="26" width="26" decoding="async"></a><div class="ab-sub-wrapper"><ul role="menu" aria-label="Hola, a.ortizmend" id="wp-admin-bar-user-actions" class="ab-submenu"><li role="group" id="wp-admin-bar-user-info"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-admin/profile.php"><img alt="" src="https://secure.gravatar.com/avatar/d1340cde9f451fd23608b5390f7957be?s=64&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/d1340cde9f451fd23608b5390f7957be?s=128&amp;d=mm&amp;r=g 2x" class="avatar avatar-64 photo" height="64" width="64" decoding="async"><span class="display-name">a.ortizmend</span><span class="username">admin</span><span class="display-name edit-profile">Editar perfil</span></a></li><li role="group" id="wp-admin-bar-logout"><a class="ab-item" role="menuitem" href="https://www.dataec593.com/wp-login.php?action=logout&amp;_wpnonce=4ff1c4c919">Salir</a></li></ul></div></li><li role="group" id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1" role="menuitem"><form action="https://www.dataec593.com/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150"><label for="adminbar-search" class="screen-reader-text">Buscar</label><input type="submit" class="adminbar-button" value="Buscar"></form></div></li></ul>			</div>
+		</div>
+
+		
+
+<div id="page-wrapper">
+
+	<a class="skip-link screen-reader-text" href="#content">Saltar al contenido</a>
+
+	
+	
+	
+	
+	
+	<div id="main" class="site-main">
+		<div class="full-container">
+			
+<div id="primary" class="content-area">
+	<div id="content" class="site-content" role="main">
+
+		    <div class="sektion-wrapper nb-loc " data-sek-level="location" data-sek-id="loop_start" data-sek-is-global-location="&quot;false&quot;">    <div data-sek-level="section" data-sek-id="__nimble__f38e6d1ef04c" class="sek-section sek-has-modules   ">
+      <div class="sek-container-fluid">
+        <div class="sek-row sek-sektion-inner">
+            <div data-sek-level="column" data-sek-id="__nimble__3597af9567cd" class="sek-column sek-col-base sek-col-100   ">        <div class="sek-column-inner ">
+                            <div data-sek-level="module" data-sek-id="__nimble__3e9113268336" data-sek-module-type="czr_tiny_mce_editor_module" class="sek-module   " title="">    <div class="sek-module-inner">
+      <p style="text-align: center;"><span style="font-size: 24pt;">Candidato A</span></p>
+<p>&nbsp;</p>
+    </div>
+</div>                    </div>
+    </div>        </div>
+      </div>
+  </div><div data-sek-level="section" data-sek-id="__nimble__7ffe6ab96987" class="sek-section sek-has-modules   ">
+      <div class="sek-container-fluid">
+        <div class="sek-row sek-sektion-inner">
+            <div data-sek-level="column" data-sek-id="__nimble__b4d62a67c82c" class="sek-column sek-col-base sek-col-100   ">        <div class="sek-column-inner ">
+                            <div data-sek-level="module" data-sek-id="__nimble__9e9c87785f62" data-sek-module-type="czr_accordion_module" class="sek-module   " title="">    <div class="sek-module-inner">
+              <div class="sek-accord-wrapper" data-sek-accord-id="__nimble__9e9c87785f62" data-sek-is-multi-item="true" data-sek-first-expanded="true" data-sek-one-expanded="true" data-sek-has-global-border="true" data-sek-has-title-border="true" role="tablist">                      <div class="sek-accord-item" data-sek-item-id="3adebcd30df7" data-sek-expanded="true"><div id="sek-tab-title-3adebcd30df7" class="sek-accord-title" role="tab" aria-controls="sek-tab-content-3adebcd30df7"><span class="sek-inner-accord-title">Propuesta 1</span><div class="expander"><span></span><span></span></div></div><div id="sek-tab-content-3adebcd30df7" class="sek-accord-content" role="tabpanel" aria-labelledby="sek-tab-title-3adebcd30df7"><h2><span style="font-weight: 400">Análisis</span></h2>
+<p><span style="font-weight: 400">**Resumen de la Propuesta:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">La propuesta del candidato Daniel Noboa, denominada «IC-Play», no menciona explícitamente el uso de «energía nuclear». Se centra en brindar apoyo técnico y económico a jóvenes emprendedores en el campo de la tecnología.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Análisis Detallado:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Barreras Légales:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">* No se identificaron barreras legales específicas en la propuesta.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Barreras Económicas:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">* **Financiamiento disponible:** El presupuesto requerido para implementar la propuesta no está claro. El Ecuador enfrenta actualmente limitaciones fiscales, lo que podría afectar la disponibilidad de fondos.</span></p>
+<p><span style="font-weight: 400">* **Competencia en el mercado:** El apoyo a emprendimientos tecnológicos enfrenta una competencia importante de programas gubernamentales y privados existentes.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Barreras Técnicas:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">* **Capacidad y experiencia:** El éxito del programa depende en gran medida de la capacidad y experiencia de los equipos involucrados en la selección, capacitación y apoyo a los emprendedores.</span></p>
+<p><span style="font-weight: 400">* **Acceso a tecnología:** Asegurar el acceso a tecnología asequible y pertinente para los emprendedores apoyados podría ser un desafío.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Conclusión y Veredicto de Factibilidad:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Parcialmente factible**</span></p>
+<p></p>
+<p><span style="font-weight: 400">La propuesta de «IC-Play» tiene el potencial de apoyar a los jóvenes emprendedores en el campo de la tecnología. Sin embargo, existen barreras potenciales relacionadas con el financiamiento, la competencia y la capacidad técnica. La factibilidad de la propuesta dependerá en gran medida de los recursos asignados, el diseño del programa y la capacidad de los equipos implementadores.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Recomendación:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">Se requeriría información adicional sobre los siguientes aspectos para emitir un veredicto de factibilidad más definitivo:</span></p>
+<p></p>
+<p><span style="font-weight: 400">* Presupuesto total y fuentes de financiación.</span></p>
+<p><span style="font-weight: 400">* Detalles sobre los criterios de selección y apoyo para emprendedores.</span></p>
+<p><span style="font-weight: 400">* Plan para abordar las barreras técnicas (por ejemplo, acceso a tecnología, desarrollo de habilidades).</span></p>
+</div></div><div class="sek-accord-item" data-sek-item-id="6de4b38dc31f" data-sek-expanded="false"><div id="sek-tab-title-6de4b38dc31f" class="sek-accord-title" role="tab" aria-controls="sek-tab-content-6de4b38dc31f"><span class="sek-inner-accord-title">Propuesta 2</span><div class="expander"><span></span><span></span></div></div><div id="sek-tab-content-6de4b38dc31f" class="sek-accord-content" role="tabpanel" aria-labelledby="sek-tab-title-6de4b38dc31f"><h2><span style="font-weight: 400">Análisis</span></h2>
+<p><span style="font-weight: 400">**1. Resumen de la Propuesta**</span></p>
+<p></p>
+<p><span style="font-weight: 400">El presidente Daniel Noboa propone un plan de gobierno de cinco puntos:</span></p>
+<p></p>
+<p><span style="font-weight: 400">* Lucha contra la inseguridad</span></p>
+<p><span style="font-weight: 400">* Abordaje de la crisis energética</span></p>
+<p><span style="font-weight: 400">* Desarrollo económico y social</span></p>
+<p><span style="font-weight: 400">* Infraestructura y vivienda</span></p>
+<p><span style="font-weight: 400">* Lucha contra la corrupción</span></p>
+<p></p>
+<p><span style="font-weight: 400">**2. Análisis Detallado**</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Lucha contra la inseguridad**</span></p>
+<p></p>
+<p><span style="font-weight: 400">* **Fuentes de datos:** Estadísticas criminales, informes del Ministerio del Interior</span></p>
+<p><span style="font-weight: 400">* **Barreras:** Falta de recursos, corrupción, ineficiencia judicial</span></p>
+<p><span style="font-weight: 400">* **Condición necesaria:** Inversión sostenida en seguridad, reforma policial, fortalecimiento del sistema judicial</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Abordaje de la crisis energética**</span></p>
+<p></p>
+<p><span style="font-weight: 400">* **Fuentes de datos:** Datos de producción y consumo de energía, informes del Ministerio de Energía</span></p>
+<p><span style="font-weight: 400">* **Barreras:** Dependencia de fuentes hidroeléctricas, sequías, falta de inversión privada</span></p>
+<p><span style="font-weight: 400">* **Condición necesaria:** Diversificación de fuentes de energía, atracción de inversión privada, mejora de la gestión de recursos hídricos</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Desarrollo económico y social**</span></p>
+<p></p>
+<p><span style="font-weight: 400">* **Fuentes de datos:** Estadísticas económicas, informes del Ministerio de Finanzas</span></p>
+<p><span style="font-weight: 400">* **Barreras:** Informalidad laboral, desigualdad económica, déficit fiscal</span></p>
+<p><span style="font-weight: 400">* **Condición necesaria:** Promoción del empleo formal, inversión en educación y salud, sostenibilidad fiscal</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Infraestructura y vivienda**</span></p>
+<p></p>
+<p><span style="font-weight: 400">* **Fuentes de datos:** Datos de infraestructura, informes del Ministerio de Transporte y Obras Públicas</span></p>
+<p><span style="font-weight: 400">* **Barreras:** Falta de fondos, corrupción, dificultades logísticas</span></p>
+<p><span style="font-weight: 400">* **Condición necesaria:** Inversión en infraestructura clave, fomento de la inversión privada, mejora de la planificación urbana</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Lucha contra la corrupción**</span></p>
+<p></p>
+<p><span style="font-weight: 400">* **Fuentes de datos:** Índice de Percepción de Corrupción, informes de organismos de control</span></p>
+<p><span style="font-weight: 400">* **Barreras:** Cultura de impunidad, falta de transparencia</span></p>
+<p><span style="font-weight: 400">* **Condición necesaria:** Fortalecimiento de organismos de control, mejora de los mecanismos de denuncia, promoción de la rendición de cuentas</span></p>
+<p></p>
+<p><span style="font-weight: 400">**3. Conclusión y Veredicto de Factibilidad**</span></p>
+<p></p>
+<p><span style="font-weight: 400">** parcialmente factible**</span></p>
+<p></p>
+<p><span style="font-weight: 400">El plan de gobierno de Daniel Noboa aborda problemas importantes, pero su factibilidad es limitada por las siguientes razones:</span></p>
+<p></p>
+<p><span style="font-weight: 400">* **Barreras sistémicas:** Corrupción, ineficiencia, falta de recursos</span></p>
+<p><span style="font-weight: 400">* **Financiamiento incierto:** El plan no detalla cómo se financiará la expansión de los programas sociales o la inversión en infraestructura</span></p>
+<p><span style="font-weight: 400">* **Falta de especificidad:** Algunas propuestas son vagas y carecen de detalles concretos</span></p>
+<p></p>
+<p><span style="font-weight: 400">**4. Recomendación**</span></p>
+<p></p>
+<p><span style="font-weight: 400">Se requiere información adicional sobre:</span></p>
+<p></p>
+<p><span style="font-weight: 400">* Fuentes de financiamiento para las propuestas</span></p>
+<p><span style="font-weight: 400">* Cronogramas específicos para la implementación</span></p>
+<p><span style="font-weight: 400">* Indicadores de éxito para medir el progreso</span></p>
+</div></div><div class="sek-accord-item" data-sek-item-id="09d757e42ed7" data-sek-expanded="false"><div id="sek-tab-title-09d757e42ed7" class="sek-accord-title" role="tab" aria-controls="sek-tab-content-09d757e42ed7"><span class="sek-inner-accord-title">Propuesta 3</span><div class="expander"><span></span><span></span></div></div><div id="sek-tab-content-09d757e42ed7" class="sek-accord-content" role="tabpanel" aria-labelledby="sek-tab-title-09d757e42ed7"><h2><span style="font-weight: 400">Análisis</span></h2>
+<p><span style="font-weight: 400">**Resumen de la Propuesta:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">El candidato presidencial Daniel Noboa propone el «Plan Fénix», que incluye la creación de una Central de Inteligencia para la prevención del delito, la respuesta a emergencias y la seguridad comunitaria. La propuesta contempla equipos y uniformes avanzados para las fuerzas policiales, así como tecnología de vigilancia y rastreo.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Análisis Detallado:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Fuente de Datos:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">El artículo periodístico de Primicias, que reporta sobre la presentación del plan de Noboa.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Barreras Legales:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">La propuesta no menciona ninguna barrera legal para su implementación. Sin embargo, la creación de una Central de Inteligencia requeriría la aprobación de una nueva ley o la modificación de las leyes existentes sobre seguridad e inteligencia.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Barreras Económicas:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">La propuesta implica un gasto significativo en uniformes y equipos policiales avanzados, así como en tecnología de vigilancia y rastreo. El presupuesto del gobierno para el sector de seguridad debería analizarse para determinar si puede soportar estos costos.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Barreras Técnicas:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">La propuesta requiere una infraestructura tecnológica avanzada para la Central de Inteligencia y los sistemas de vigilancia. Se necesitaría evaluar la capacidad técnica del país para implementar y mantener dicha infraestructura.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Conclusión y Veredicto de Factibilidad:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Poco Factible**</span></p>
+<p></p>
+<p><span style="font-weight: 400">Si bien la propuesta aborda preocupaciones válidas sobre la seguridad, su factibilidad está en duda debido a las siguientes razones:</span></p>
+<p></p>
+<p><span style="font-weight: 400">* Requerimiento de una legislación nueva o modificada.</span></p>
+<p><span style="font-weight: 400">* Costos significativos de implementación y mantenimiento.</span></p>
+<p><span style="font-weight: 400">* Necesidad de una infraestructura tecnológica avanzada.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Recomendaciones:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">Se necesitaría información adicional sobre el presupuesto, la capacidad técnica y las posibles implicaciones legales para emitir un veredicto más definitivo sobre la factibilidad de la propuesta.</span></p>
+</div></div>                  </div>
+          </div>
+</div>                    </div>
+    </div>        </div>
+      </div>
+  </div><div data-sek-level="section" data-sek-id="__nimble__af51df1f2ab8" class="sek-section sek-has-modules   ">
+      <div class="sek-container-fluid">
+        <div class="sek-row sek-sektion-inner">
+            <div data-sek-level="column" data-sek-id="__nimble__a5497adffb7c" class="sek-column sek-col-base sek-col-100   ">        <div class="sek-column-inner ">
+                            <div data-sek-level="module" data-sek-id="__nimble__604542b9e5c3" data-sek-module-type="czr_tiny_mce_editor_module" class="sek-module   " title="">    <div class="sek-module-inner">
+      <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 24pt;">Candidato B</span></p>
+<p>&nbsp;</p>
+    </div>
+</div>                    </div>
+    </div>        </div>
+      </div>
+  </div><div data-sek-level="section" data-sek-id="__nimble__0bcb360ba27f" class="sek-section sek-has-modules   ">
+      <div class="sek-container-fluid">
+        <div class="sek-row sek-sektion-inner">
+            <div data-sek-level="column" data-sek-id="__nimble__ea292c6615c5" class="sek-column sek-col-base sek-col-100   ">        <div class="sek-column-inner ">
+                            <div data-sek-level="module" data-sek-id="__nimble__20cde61113f4" data-sek-module-type="czr_accordion_module" class="sek-module   " title="">    <div class="sek-module-inner">
+              <div class="sek-accord-wrapper" data-sek-accord-id="__nimble__20cde61113f4" data-sek-is-multi-item="true" data-sek-first-expanded="true" data-sek-one-expanded="true" data-sek-has-global-border="true" data-sek-has-title-border="true" role="tablist">                      <div class="sek-accord-item" data-sek-item-id="1035771958fe" data-sek-expanded="true"><div id="sek-tab-title-1035771958fe" class="sek-accord-title" role="tab" aria-controls="sek-tab-content-1035771958fe"><span class="sek-inner-accord-title">Propuesta 1</span><div class="expander"><span></span><span></span></div></div><div id="sek-tab-content-1035771958fe" class="sek-accord-content" role="tabpanel" aria-labelledby="sek-tab-title-1035771958fe"><h2><span style="font-weight: 400">Análisis</span></h2>
+<p><span style="font-weight: 400">**Resumen de la Propuesta:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">La propuesta del candidato Daniel Noboa, denominada «IC-Play», no menciona explícitamente el uso de «energía nuclear». Se centra en brindar apoyo técnico y económico a jóvenes emprendedores en el campo de la tecnología.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Análisis Detallado:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Barreras Légales:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">* No se identificaron barreras legales específicas en la propuesta.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Barreras Económicas:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">* **Financiamiento disponible:** El presupuesto requerido para implementar la propuesta no está claro. El Ecuador enfrenta actualmente limitaciones fiscales, lo que podría afectar la disponibilidad de fondos.</span></p>
+<p><span style="font-weight: 400">* **Competencia en el mercado:** El apoyo a emprendimientos tecnológicos enfrenta una competencia importante de programas gubernamentales y privados existentes.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Barreras Técnicas:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">* **Capacidad y experiencia:** El éxito del programa depende en gran medida de la capacidad y experiencia de los equipos involucrados en la selección, capacitación y apoyo a los emprendedores.</span></p>
+<p><span style="font-weight: 400">* **Acceso a tecnología:** Asegurar el acceso a tecnología asequible y pertinente para los emprendedores apoyados podría ser un desafío.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Conclusión y Veredicto de Factibilidad:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Parcialmente factible**</span></p>
+<p></p>
+<p><span style="font-weight: 400">La propuesta de «IC-Play» tiene el potencial de apoyar a los jóvenes emprendedores en el campo de la tecnología. Sin embargo, existen barreras potenciales relacionadas con el financiamiento, la competencia y la capacidad técnica. La factibilidad de la propuesta dependerá en gran medida de los recursos asignados, el diseño del programa y la capacidad de los equipos implementadores.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Recomendación:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">Se requeriría información adicional sobre los siguientes aspectos para emitir un veredicto de factibilidad más definitivo:</span></p>
+<p></p>
+<p><span style="font-weight: 400">* Presupuesto total y fuentes de financiación.</span></p>
+<p><span style="font-weight: 400">* Detalles sobre los criterios de selección y apoyo para emprendedores.</span></p>
+<p><span style="font-weight: 400">* Plan para abordar las barreras técnicas (por ejemplo, acceso a tecnología, desarrollo de habilidades).</span></p>
+</div></div><div class="sek-accord-item" data-sek-item-id="f71330e0f4f5" data-sek-expanded="false"><div id="sek-tab-title-f71330e0f4f5" class="sek-accord-title" role="tab" aria-controls="sek-tab-content-f71330e0f4f5"><span class="sek-inner-accord-title">Propuesta 2</span><div class="expander"><span></span><span></span></div></div><div id="sek-tab-content-f71330e0f4f5" class="sek-accord-content" role="tabpanel" aria-labelledby="sek-tab-title-f71330e0f4f5"><h2><span style="font-weight: 400">Análisis</span></h2>
+<p><span style="font-weight: 400">**1. Resumen de la Propuesta**</span></p>
+<p></p>
+<p><span style="font-weight: 400">El presidente Daniel Noboa propone un plan de gobierno de cinco puntos:</span></p>
+<p></p>
+<p><span style="font-weight: 400">* Lucha contra la inseguridad</span></p>
+<p><span style="font-weight: 400">* Abordaje de la crisis energética</span></p>
+<p><span style="font-weight: 400">* Desarrollo económico y social</span></p>
+<p><span style="font-weight: 400">* Infraestructura y vivienda</span></p>
+<p><span style="font-weight: 400">* Lucha contra la corrupción</span></p>
+<p></p>
+<p><span style="font-weight: 400">**2. Análisis Detallado**</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Lucha contra la inseguridad**</span></p>
+<p></p>
+<p><span style="font-weight: 400">* **Fuentes de datos:** Estadísticas criminales, informes del Ministerio del Interior</span></p>
+<p><span style="font-weight: 400">* **Barreras:** Falta de recursos, corrupción, ineficiencia judicial</span></p>
+<p><span style="font-weight: 400">* **Condición necesaria:** Inversión sostenida en seguridad, reforma policial, fortalecimiento del sistema judicial</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Abordaje de la crisis energética**</span></p>
+<p></p>
+<p><span style="font-weight: 400">* **Fuentes de datos:** Datos de producción y consumo de energía, informes del Ministerio de Energía</span></p>
+<p><span style="font-weight: 400">* **Barreras:** Dependencia de fuentes hidroeléctricas, sequías, falta de inversión privada</span></p>
+<p><span style="font-weight: 400">* **Condición necesaria:** Diversificación de fuentes de energía, atracción de inversión privada, mejora de la gestión de recursos hídricos</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Desarrollo económico y social**</span></p>
+<p></p>
+<p><span style="font-weight: 400">* **Fuentes de datos:** Estadísticas económicas, informes del Ministerio de Finanzas</span></p>
+<p><span style="font-weight: 400">* **Barreras:** Informalidad laboral, desigualdad económica, déficit fiscal</span></p>
+<p><span style="font-weight: 400">* **Condición necesaria:** Promoción del empleo formal, inversión en educación y salud, sostenibilidad fiscal</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Infraestructura y vivienda**</span></p>
+<p></p>
+<p><span style="font-weight: 400">* **Fuentes de datos:** Datos de infraestructura, informes del Ministerio de Transporte y Obras Públicas</span></p>
+<p><span style="font-weight: 400">* **Barreras:** Falta de fondos, corrupción, dificultades logísticas</span></p>
+<p><span style="font-weight: 400">* **Condición necesaria:** Inversión en infraestructura clave, fomento de la inversión privada, mejora de la planificación urbana</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Lucha contra la corrupción**</span></p>
+<p></p>
+<p><span style="font-weight: 400">* **Fuentes de datos:** Índice de Percepción de Corrupción, informes de organismos de control</span></p>
+<p><span style="font-weight: 400">* **Barreras:** Cultura de impunidad, falta de transparencia</span></p>
+<p><span style="font-weight: 400">* **Condición necesaria:** Fortalecimiento de organismos de control, mejora de los mecanismos de denuncia, promoción de la rendición de cuentas</span></p>
+<p></p>
+<p><span style="font-weight: 400">**3. Conclusión y Veredicto de Factibilidad**</span></p>
+<p></p>
+<p><span style="font-weight: 400">** parcialmente factible**</span></p>
+<p></p>
+<p><span style="font-weight: 400">El plan de gobierno de Daniel Noboa aborda problemas importantes, pero su factibilidad es limitada por las siguientes razones:</span></p>
+<p></p>
+<p><span style="font-weight: 400">* **Barreras sistémicas:** Corrupción, ineficiencia, falta de recursos</span></p>
+<p><span style="font-weight: 400">* **Financiamiento incierto:** El plan no detalla cómo se financiará la expansión de los programas sociales o la inversión en infraestructura</span></p>
+<p><span style="font-weight: 400">* **Falta de especificidad:** Algunas propuestas son vagas y carecen de detalles concretos</span></p>
+<p></p>
+<p><span style="font-weight: 400">**4. Recomendación**</span></p>
+<p></p>
+<p><span style="font-weight: 400">Se requiere información adicional sobre:</span></p>
+<p></p>
+<p><span style="font-weight: 400">* Fuentes de financiamiento para las propuestas</span></p>
+<p><span style="font-weight: 400">* Cronogramas específicos para la implementación</span></p>
+<p><span style="font-weight: 400">* Indicadores de éxito para medir el progreso</span></p>
+</div></div><div class="sek-accord-item" data-sek-item-id="5baea5e4f920" data-sek-expanded="false"><div id="sek-tab-title-5baea5e4f920" class="sek-accord-title" role="tab" aria-controls="sek-tab-content-5baea5e4f920"><span class="sek-inner-accord-title">Propuesta 3</span><div class="expander"><span></span><span></span></div></div><div id="sek-tab-content-5baea5e4f920" class="sek-accord-content" role="tabpanel" aria-labelledby="sek-tab-title-5baea5e4f920"><h2><span style="font-weight: 400">Análisis</span></h2>
+<p><span style="font-weight: 400">**Resumen de la Propuesta:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">El candidato presidencial Daniel Noboa propone el «Plan Fénix», que incluye la creación de una Central de Inteligencia para la prevención del delito, la respuesta a emergencias y la seguridad comunitaria. La propuesta contempla equipos y uniformes avanzados para las fuerzas policiales, así como tecnología de vigilancia y rastreo.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Análisis Detallado:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Fuente de Datos:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">El artículo periodístico de Primicias, que reporta sobre la presentación del plan de Noboa.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Barreras Legales:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">La propuesta no menciona ninguna barrera legal para su implementación. Sin embargo, la creación de una Central de Inteligencia requeriría la aprobación de una nueva ley o la modificación de las leyes existentes sobre seguridad e inteligencia.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Barreras Económicas:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">La propuesta implica un gasto significativo en uniformes y equipos policiales avanzados, así como en tecnología de vigilancia y rastreo. El presupuesto del gobierno para el sector de seguridad debería analizarse para determinar si puede soportar estos costos.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Barreras Técnicas:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">La propuesta requiere una infraestructura tecnológica avanzada para la Central de Inteligencia y los sistemas de vigilancia. Se necesitaría evaluar la capacidad técnica del país para implementar y mantener dicha infraestructura.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Conclusión y Veredicto de Factibilidad:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Poco Factible**</span></p>
+<p></p>
+<p><span style="font-weight: 400">Si bien la propuesta aborda preocupaciones válidas sobre la seguridad, su factibilidad está en duda debido a las siguientes razones:</span></p>
+<p></p>
+<p><span style="font-weight: 400">* Requerimiento de una legislación nueva o modificada.</span></p>
+<p><span style="font-weight: 400">* Costos significativos de implementación y mantenimiento.</span></p>
+<p><span style="font-weight: 400">* Necesidad de una infraestructura tecnológica avanzada.</span></p>
+<p></p>
+<p><span style="font-weight: 400">**Recomendaciones:**</span></p>
+<p></p>
+<p><span style="font-weight: 400">Se necesitaría información adicional sobre el presupuesto, la capacidad técnica y las posibles implicaciones legales para emitir un veredicto más definitivo sobre la factibilidad de la propuesta.</span></p>
+</div></div>                  </div>
+          </div>
+</div>                    </div>
+    </div>        </div>
+      </div>
+  </div>            </div>
+			
+<article id="post-802" class="post-802 page type-page status-publish post">
+
+	<div class="entry-main">
+
+		
+					<header class="entry-header">
+													<h1 class="entry-title">propuestas_curadas</h1>
+							</header><!-- .entry-header -->
+		
+		<div class="entry-content">
+								</div><!-- .entry-content -->
+
+		
+	</div>
+
+</article><!-- #post-802 -->
+
+			
+		
+	</div><!-- #content .site-content -->
+</div><!-- #primary .content-area -->
+
+
+<div id="secondary" class="widget-area" role="complementary">
+		<aside id="block-2" class="widget widget_block widget_search"><form role="search" method="get" action="https://www.dataec593.com/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"><label class="wp-block-search__label" for="wp-block-search__input-1">Buscar</label><div class="wp-block-search__inside-wrapper "><input class="wp-block-search__input" id="wp-block-search__input-1" placeholder="" value="" type="search" name="s" required=""><button aria-label="Buscar" class="wp-block-search__button wp-element-button" type="submit">Buscar</button></div></form></aside><aside id="block-3" class="widget widget_block"><div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow"><h2 class="wp-block-heading">Recent Posts</h2><ul class="wp-block-latest-posts__list wp-block-latest-posts"></ul></div></div></aside><aside id="block-4" class="widget widget_block"><div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow"><h2 class="wp-block-heading">Recent Comments</h2><div class="no-comments wp-block-latest-comments">No hay comentarios que mostrar.</div></div></div></aside><aside id="block-5" class="widget widget_block"><div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow"><h2 class="wp-block-heading">Archives</h2><div class="wp-block-archives-list wp-block-archives">No hay archivos que mostrar.</div></div></div></aside><aside id="block-6" class="widget widget_block"><div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow"><h2 class="wp-block-heading">Categories</h2><ul class="wp-block-categories-list wp-block-categories"><li class="cat-item-none">No hay categorías</li></ul></div></div></aside>	</div><!-- #secondary .widget-area -->
+					</div><!-- .full-container -->
+	</div><!-- #main .site-main -->
+
+	
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+
+	
+			<div id="site-info">
+			<span>©DataEc593</span>		</div><!-- #site-info -->
+	
+	<div id="theme-attribution">Un Tema de <a href="https://siteorigin.com">SiteOrigin</a></div>
+</footer><!-- #colophon .site-footer -->
+
+	
+</div><!-- #page-wrapper -->
+
+
+		<a href="#" id="scroll-to-top" class="scroll-to-top" title="Volver Arriba"><span class="vantage-icon-arrow-up"></span></a>
+		<style id="nimble-global-inline-style-inline-css" type="text/css">
+[data-sek-level="section"] > .sek-container-fluid > .sek-sektion-inner{max-width:90%;margin:0 auto;}[data-sek-level="section"] > .sek-container-fluid{padding-left:inherit;padding-right:inherit;}@media(max-width:767px){[data-sek-level="section"] > .sek-container-fluid{padding-left:inherit;padding-right:inherit;}}@media(max-width:575px){[data-sek-level="section"] > .sek-container-fluid{padding-left:inherit;padding-right:inherit;}}
+</style>
+<script type="text/javascript" src="https://www.dataec593.com/wp-includes/js/hoverintent-js.min.js?ver=2.2.1" id="hoverintent-js-js"></script>
+<script type="text/javascript" src="https://www.dataec593.com/wp-includes/js/admin-bar.min.js?ver=6.7.2" id="admin-bar-js"></script>
+<script type="text/javascript" id="nb_main_front_js_preloading-js-after">
+/* <![CDATA[ */
+            nb_.listenTo('nb-docready', function() {
+                nb_.preloadOrDeferAsset( {
+                  id : 'nb-main-js',
+                  as : 'script',
+                  href : "https://www.dataec593.com/wp-content/plugins/nimble-builder/assets/front/js/ccat-nimble-front.min.js?v=3.3.4",
+                  scriptEl : document.getElementById('nb-load-main-script')
+                });
+            });
+                            nb_.listenTo('nb-needs-swiper', function() {
+                    nb_.preloadOrDeferAsset( {
+                      id : "slider-module",
+                      as : 'script',
+                      href : "https://www.dataec593.com/wp-content/plugins/nimble-builder/assets/front/js/partials/slider-module.min.js?v=3.3.4",
+                      scriptEl : document.getElementById('nb-load-script-slider-module')
+                    });
+                });
+                                nb_.listenTo('nb-needs-menu-js', function() {
+                    nb_.preloadOrDeferAsset( {
+                      id : "menu-module",
+                      as : 'script',
+                      href : "https://www.dataec593.com/wp-content/plugins/nimble-builder/assets/front/js/partials/menu-module.min.js?v=3.3.4",
+                      scriptEl : document.getElementById('nb-load-script-menu-module')
+                    });
+                });
+                                nb_.listenTo('nb-needs-parallax', function() {
+                    nb_.preloadOrDeferAsset( {
+                      id : "front-parallax",
+                      as : 'script',
+                      href : "https://www.dataec593.com/wp-content/plugins/nimble-builder/assets/front/js/partials/front-parallax.min.js?v=3.3.4",
+                      scriptEl : document.getElementById('nb-load-script-front-parallax')
+                    });
+                });
+                                nb_.listenTo('nb-needs-accordion', function() {
+                    nb_.preloadOrDeferAsset( {
+                      id : "accordion-module",
+                      as : 'script',
+                      href : "https://www.dataec593.com/wp-content/plugins/nimble-builder/assets/front/js/partials/accordion-module.min.js?v=3.3.4",
+                      scriptEl : document.getElementById('nb-load-script-accordion-module')
+                    });
+                });
+                
+/* ]]> */
+</script>
+<script type="text/javascript" id="nb_preload_front_assets-js-after">
+/* <![CDATA[ */
+            nb_.listenTo('nb-needs-swipebox', function() {
+                nb_.preloadOrDeferAsset( {
+                    id : 'nb-swipebox',
+                    as : 'script',
+                    href : "https://www.dataec593.com/wp-content/plugins/nimble-builder/assets/front/js/libs/jquery-swipebox.min.js?3.3.4",
+                    onEvent : 'nb-docready',
+                    // scriptEl : document.currentScript
+                });
+                nb_.preloadOrDeferAsset( {
+                  id : 'nb-swipebox-style',
+                  as : 'style',
+                  href : "https://www.dataec593.com/wp-content/plugins/nimble-builder/assets/front/css/libs/swipebox.min.css?3.3.4",
+                  onEvent : 'nb-docready',
+                  // scriptEl : document.currentScript
+                });
+            });
+
+            nb_.listenTo('nb-needs-swiper', function() {
+                nb_.preloadOrDeferAsset( {
+                    id : 'nb-swiper',
+                    as : 'script',
+                    href : "https://www.dataec593.com/wp-content/plugins/nimble-builder/assets/front/js/libs/swiper-bundle.min.js?3.3.4",
+                    onEvent : 'nb-docready',
+                    // scriptEl : document.currentScript
+                });
+            });
+            nb_.listenTo('nb-needs-videobg-js', function() {
+                nb_.preloadOrDeferAsset( {
+                    id : 'nb-video-bg-plugin',
+                    as : 'script',
+                    href : "https://www.dataec593.com/wp-content/plugins/nimble-builder/assets/front/js/libs/nimble-video-bg.min.js?3.3.4",
+                    onEvent : 'nb-docready',
+                    // scriptEl : document.currentScript
+                });
+            });
+                                            nb_.listenTo('nb-needs-fa', function() {
+                    nb_.preloadOrDeferAsset( {
+                      id : 'nb-font-awesome',
+                      as : 'style',
+                      href : "https://www.dataec593.com/wp-content/plugins/nimble-builder/assets/front/fonts/css/fontawesome-all.min.css?3.3.4",
+                      onEvent : 'nb-docready',
+                      scriptEl : document.currentScript
+                    });
+                });
+                
+/* ]]> */
+</script>
+<script type="text/javascript" id="nb_emit_nb-needs-accordion-js-after">
+/* <![CDATA[ */
+(function(){if(window.nb_){nb_.emit("nb-needs-accordion");}})();
+/* ]]> */
+</script>
+
+
+
+</body></html>
