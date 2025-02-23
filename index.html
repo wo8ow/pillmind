@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Consulta de Propuestas</title>
+  <link href="https://fonts.googleapis.com/css2?family=Raleway|Ubuntu&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Barra de navegación -->
+  <nav class="navbar">
+    <div class="navbar-left">
+      <a href="index.html">Inicio</a>
+      <a href="nosotros.html">Nosotros</a>
+    </div>
+    <div class="search-bar">
+      <input type="text" id="queryInput" placeholder="Buscar propuestas..." required>
+      <button id="searchButton">Buscar</button>
+    </div>
+  </nav>
+
+  <!-- Contenido principal -->
+  <div class="container">
+    <!-- Grid de posts fijos -->
+    <div id="fixedGrid" class="grid"></div>
+
+    <!-- Contenedor para posts dinámicos -->
+    <div id="dynamicPosts" class="grid"></div>
+  </div>
+
+  <!-- Barra de ingreso de pregunta anclada en la parte inferior -->
+  <footer class="bottom-bar">
+    <form id="queryForm">
+      <input type="text" id="bottomQueryInput" placeholder="Ingresa la URL..." required>
+      <button type="submit">Enviar</button>
+    </form>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
