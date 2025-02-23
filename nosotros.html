@@ -53,7 +53,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel="stylesheet" id="vantage-style-css" href="https://www.dataec593.com/wp-content/themes/vantage/style.css?ver=1.20.21" type="text/css" media="all">
 <link rel="stylesheet" id="font-awesome-css" href="https://www.dataec593.com/wp-content/themes/vantage/fontawesome/css/font-awesome.css?ver=4.6.2" type="text/css" media="all">
 <link rel="stylesheet" id="siteorigin-mobilenav-css" href="https://www.dataec593.com/wp-content/themes/vantage/inc/mobilenav/css/mobilenav.css?ver=1.20.21" type="text/css" media="all">
-<link rel="stylesheet" id="sek-dyn-skp__global-css" href="https://www.dataec593.com/wp-content/uploads/nimble_css/skp__global.css?ver=1740344071" type="text/css" media="all">
+<link rel="stylesheet" id="sek-dyn-skp__global-css" href="https://www.dataec593.com/wp-content/uploads/nimble_css/skp__global.css?ver=1740346996" type="text/css" media="all">
 <script type="text/javascript" id="nb-js-app-js-extra">
 /* <![CDATA[ */
 var sekFrontLocalized = {"isDevMode":"","isCustomizing":"","frontNonce":{"id":"SEKFrontNonce","handle":"ed800ad42b"},"skope_id":"skp__post_page_703","recaptcha_public_key":"","lazyload_enabled":"1","video_bg_lazyload_enabled":"1","load_front_assets_on_dynamically":"","assetVersion":"3.3.4","frontAssetsPath":"https:\/\/www.dataec593.com\/wp-content\/plugins\/nimble-builder\/assets\/front\/","contextuallyActiveModules":{"czr_tiny_mce_editor_module":["__nimble__652af1ab08d5","__nimble__ccc467dc112c"],"czr_image_module":["__nimble__fde4cb9be550"],"czr_menu_module":["__nimble__65097bd24915"],"czr_social_icons_module":["__nimble__ef393ecd24ee"]},"fontAwesomeAlreadyEnqueued":"","partialFrontScripts":{"slider-module":"nb-needs-swiper","menu-module":"nb-needs-menu-js","front-parallax":"nb-needs-parallax","accordion-module":"nb-needs-accordion"}};
@@ -148,12 +148,46 @@ var mobileNav = {"search":{"url":"https:\/\/www.dataec593.com","placeholder":"B\
                             <div data-sek-level="module" data-sek-id="__nimble__652af1ab08d5" data-sek-module-type="czr_tiny_mce_editor_module" class="sek-module   " title="">    <div class="sek-module-inner">
       <p style="text-align: center;"><span style="font-size: 24pt;"><em><strong>factibleBot</strong></em></span></p>
 <p>&nbsp;</p>
-<p>Es un bot que utiliza inteligencia artificial para analizar mediante un prompt, la URL compartidas al bot, este dará como resultado un análisis pequeño de la factibilidad de la propuesta.&nbsp;</p>
+<p>Pillmind es una plataforma innovadora diseñada para validar la factibilidad de propuestas electorales. A través de un bot de Telegram, los usuarios pueden enviar una URL con una propuesta, y el bot analiza su contenido utilizando tecnologías como&nbsp;<strong>Beautiful Soup</strong>&nbsp;para el web scraping y&nbsp;<strong>Gemini</strong>&nbsp;para el procesamiento de lenguaje natural. Luego, devuelve un informe de factibilidad.</p>
+<p>&nbsp;</p>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">Características principales</h2>
+<p><a id="user-content-características-principales" class="anchor" href="https://github.com/wo8ow/pillmind/blob/main/README.md#caracter%C3%ADsticas-principales" aria-label="Permalink: Características principales"></a></p></div>
+<ul dir="auto">
+<li><strong>Bot de Telegram</strong>: Los usuarios envían una URL y reciben un análisis de factibilidad de la propuesta.</li>
+<li><strong>Tecnologías utilizadas</strong>:
+<ul dir="auto">
+<li><strong>Beautiful Soup</strong>: Para extraer y analizar el contenido de la URL.</li>
+<li><strong>Gemini</strong>: Para procesar el lenguaje natural y generar el informe de factibilidad.</li>
+</ul>
+</li>
+<li><strong>Base de datos</strong>: Los datos se almacenan en una base de datos&nbsp;<strong>SQLite</strong>&nbsp;para su gestión y consulta eficiente.</li>
+<li><strong>API en FastAPI</strong>: Una API desarrollada en FastAPI permite la integración con una aplicación web.</li>
+<li><strong>Aplicación web</strong>: Muestra tanto las respuestas generadas por los usuarios como las respuestas curadas y validadas por investigadores y expertos.</li>
+</ul>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">Funcionamiento</h2>
+<p><a id="user-content-funcionamiento" class="anchor" href="https://github.com/wo8ow/pillmind/blob/main/README.md#funcionamiento" aria-label="Permalink: Funcionamiento"></a></p></div>
+<ol dir="auto">
+<li><strong>Envío de URL</strong>: Los usuarios envían una URL con una propuesta al bot de Telegram.</li>
+<li><strong>Análisis</strong>: El bot utiliza Beautiful Soup y Gemini para analizar la propuesta y generar un informe de factibilidad.</li>
+<li><strong>Almacenamiento</strong>: Los datos se guardan en una base de datos SQLite.</li>
+<li><strong>Consulta y visualización</strong>: A través de la API en FastAPI, una aplicación web consume la base de datos y muestra las respuestas generadas y curadas.</li>
+</ol>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">Beneficios</h2>
+<p><a id="user-content-beneficios" class="anchor" href="https://github.com/wo8ow/pillmind/blob/main/README.md#beneficios" aria-label="Permalink: Beneficios"></a></p></div>
+<ul dir="auto">
+<li><strong>Transparencia</strong>: Proporciona un análisis claro y detallado de la factibilidad de las propuestas.</li>
+<li><strong>Accesibilidad</strong>: Fácil de usar a través de Telegram y una aplicación web.</li>
+<li><strong>Confiabilidad</strong>: Combina respuestas automáticas con validaciones de expertos para ofrecer un análisis más completo.</li>
+</ul>
+<p dir="auto">Pillmind es una herramienta robusta y transparente para la evaluación de propuestas electorales, combinando inteligencia artificial, bases de datos y una interfaz accesible.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p style="text-align: center;"><span style="font-size: 18pt;"><em><strong>Equipo Hackaton 2025 – Open Lab</strong></em></span></p>
 <p>&nbsp;</p>
-<p><img fetchpriority="high" decoding="async" class="aligncenter wp-image-709 sek-lazy-loaded" src="https://www.dataec593.com/wp-content/uploads/2025/02/IMG_0045-300x200.jpg" alt="" width="502" height="334" srcset="https://www.dataec593.com/wp-content/uploads/2025/02/IMG_0045-300x200.jpg 300w, https://www.dataec593.com/wp-content/uploads/2025/02/IMG_0045-1024x683.jpg 1024w, https://www.dataec593.com/wp-content/uploads/2025/02/IMG_0045-768x512.jpg 768w, https://www.dataec593.com/wp-content/uploads/2025/02/IMG_0045-1536x1024.jpg 1536w, https://www.dataec593.com/wp-content/uploads/2025/02/IMG_0045-2048x1365.jpg 2048w, https://www.dataec593.com/wp-content/uploads/2025/02/IMG_0045-272x182.jpg 272w" sizes="(max-width: 502px) 100vw, 502px"></p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter wp-image-709" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-sek-src="https://www.dataec593.com/wp-content/uploads/2025/02/IMG_0045-300x200.jpg" alt="" width="502" height="334" data-sek-srcset="https://www.dataec593.com/wp-content/uploads/2025/02/IMG_0045-300x200.jpg 300w, https://www.dataec593.com/wp-content/uploads/2025/02/IMG_0045-1024x683.jpg 1024w, https://www.dataec593.com/wp-content/uploads/2025/02/IMG_0045-768x512.jpg 768w, https://www.dataec593.com/wp-content/uploads/2025/02/IMG_0045-1536x1024.jpg 1536w, https://www.dataec593.com/wp-content/uploads/2025/02/IMG_0045-2048x1365.jpg 2048w, https://www.dataec593.com/wp-content/uploads/2025/02/IMG_0045-272x182.jpg 272w" data-sek-sizes="(max-width: 502px) 100vw, 502px"></p>
 <p>&nbsp;</p>
 <p>Integrantes descritos de iquierda a derecha:</p>
 <p style="text-align: center;">Juan Fuertes</p>
