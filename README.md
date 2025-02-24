@@ -26,3 +26,6 @@ Pillmind es una plataforma innovadora diseñada para validar la factibilidad de 
 - **Confiabilidad**: Combina respuestas automáticas con validaciones de expertos para ofrecer un análisis más completo.
 
 Pillmind es una herramienta robusta y transparente para la evaluación de propuestas electorales, combinando inteligencia artificial, bases de datos y una interfaz accesible.
+
+www.dataec593.com/pillmind
+https://github.com/wo8ow/pillmind
